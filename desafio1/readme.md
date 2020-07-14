@@ -12,4 +12,4 @@
       Statement
       Create an application to filter users and show statistics from the defined filter.
       
-      [result](index.html)
+[result](index.html)
